@@ -1,5 +1,5 @@
 # modern-react-login
-This project was based on [Mohammed Firoz's design](https://behance.net/gallery/107454469/Sign-In-and-Sign-Up)
+This project was based on [Mohammed Firoz's design](https://behance.net/gallery/107454469/Sign-In-and-Sign-Up), on Behance.net.
 
 ## GIF
 ![show.gif](show.gif)
